@@ -41,10 +41,13 @@ This repository contains a comprehensive framework for managing and installing v
     install_angular_cli()
     ```
 
-- **Executing a Command**:
+- **Executing a Command and Running a Server**:
     ```python
     command = "npx create-react-app my-react-app"
     execute_command(command)
+    command_server = "npm start"
+    folder = "my-react-app"
+    execute_command(command_server,folder)
     ```
 
 - **Handling Missing Dependencies**:
