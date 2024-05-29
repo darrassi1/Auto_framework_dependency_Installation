@@ -124,8 +124,8 @@ This repository contains a comprehensive framework for managing and installing v
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/project-name.git
-    cd project-name
+    git clone https://github.com/darrassi1/Auto_framework_dependency_Installation.git
+    cd Auto_framework_dependency_Installation
     ```
 
 2. **Install required dependencies** (if any, like `npm`, `composer`, `flutter`, etc.).
